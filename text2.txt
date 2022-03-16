@@ -1,0 +1,1 @@
+Hi guys, pada course ini kita akan bahas tentangg Git Dasar, dimana kita akan bahas pengenalan Git untuk pemula yang baru pertama kali belajar Git.
